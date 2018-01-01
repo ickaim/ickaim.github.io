@@ -21,6 +21,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+	font-family:Cinzel Decorative;
 }
 
 li a:hover:not(.active) {
@@ -36,7 +37,8 @@ li a:hover:not(.active) {
 	height: 600px;
 	text-align: center;
 	padding:150px;
-	color: black;
+	color: white;
+	font-family: 'Calligraffitti';
 }
 
 .background h3 {
@@ -49,8 +51,9 @@ li a:hover:not(.active) {
 	font-size: 40px;
 	width: 500px;
 	padding: 20px;
-	color: black;
+	color: white;
 	text-decoration: none;
+	font-family: 'Cinzel Decorative';
 }
 
 .background a {
